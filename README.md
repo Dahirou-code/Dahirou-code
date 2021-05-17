@@ -9,4 +9,5 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spent all my time inreading and doing sport in free days
 
- )
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dahirou-code)](https://github.com/anuraghazra/github-readme-stats)
+
